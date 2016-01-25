@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "test.css",
+  "sources": [
+    "test.scss"
+  ],
+  "sourcesContent": [],
+  "mappings": ";AAIA,MAAM,EAAE,IAAI,CAAL;EACL,gBAAgB,EAJR,OAAO;EAKf,KAAK,EANG,OAAO;EAOf,IAAI,EAAE,KAAK,CALF,cAAc,EAAE,UAAU,CAKb,IAAI;EAC1B,aAAa,EAAE,GAAI;EACnB,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,IAAI,CAAC,IAAI,GANZ;;;AASR,IAAI,CAAC;EAED,KAAK,EAAC,KAAM;EACZ,UAAU,EAAE,MAAO,GAHjB",
+  "names": []
+}
